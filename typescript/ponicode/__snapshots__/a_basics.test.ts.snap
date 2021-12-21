@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`a_basics.calculateCommissionTs 0 1`] = `3750`;
+
+exports[`a_basics.calculateCommissionTs 1 1`] = `250`;
+
+exports[`a_basics.calculateCommissionTs 2 1`] = `31000.15`;
+
+exports[`a_basics.calculateCommissionTs 3 1`] = `24600`;
+
+exports[`a_basics.calculateCommissionTs 4 1`] = `18450`;
+
+exports[`a_basics.calculateCommissionTs 5 1`] = `NaN`;
+
+exports[`a_basics.getClientAgeGenerationTs 0 1`] = `"Gen.Z"`;
+
+exports[`a_basics.getClientAgeGenerationTs 1 1`] = `"Gen.X"`;
+
+exports[`a_basics.getClientAgeGenerationTs 2 1`] = `"Gen.X"`;
+
+exports[`a_basics.getClientAgeGenerationTs 3 1`] = `"Gen.Z"`;
+
+exports[`a_basics.getClientAgeGenerationTs 4 1`] = `"Gen.X"`;
+
+exports[`a_basics.getClientAgeGenerationTs 5 1`] = `"Gen.X"`;
+
+exports[`a_basics.getClientScoreTs 0 1`] = `NaN`;
+
+exports[`a_basics.getClientScoreTs 1 1`] = `NaN`;
+
+exports[`a_basics.getClientScoreTs 2 1`] = `NaN`;
+
+exports[`a_basics.getClientScoreTs 3 1`] = `NaN`;
+
+exports[`a_basics.getClientScoreTs 4 1`] = `NaN`;
+
+exports[`a_basics.getClientScoreTs 5 1`] = `0`;
+
+exports[`a_basics.isEmailValidTs 0 1`] = `false`;
+
+exports[`a_basics.isEmailValidTs 1 1`] = `true`;
+
+exports[`a_basics.isEmailValidTs 2 1`] = `true`;
+
+exports[`a_basics.isEmailValidTs 3 1`] = `true`;
+
+exports[`a_basics.isEmailValidTs 4 1`] = `true`;
+
+exports[`a_basics.isEmailValidTs 5 1`] = `false`;
